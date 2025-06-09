@@ -1,5 +1,6 @@
 # Jogo_da_Cobrinha
->
-> Aluno: Cainã Estevam
-> Professor: Hugo Marcondes
+
+Aluno: Cainã Estevam
+
+Professor: Hugo Marcondes
 
