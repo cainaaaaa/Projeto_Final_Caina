@@ -1,3 +1,4 @@
-# Projeto_Final_Caina
-Projeto do Jogo da Cobrinha
+# Projeto_do_Jogo_da_Cobrinha
+Aluno: Cainã Estevam
+Professor: Hugo Marcondes
 
