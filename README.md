@@ -1,3 +1,7 @@
+<img src="img/ifsc-logo.png"
+     width="30%"
+     style="padding: 10px">
+
 # Jogo_da_Cobrinha
 ## Breve Descrição 
 
