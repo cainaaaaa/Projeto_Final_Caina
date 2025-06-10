@@ -1,4 +1,4 @@
-<img src="img/ifsc-logo.png"
+<img src="imagem/ifsc-logo.png"
      width="30%"
      style="padding: 10px">
 
