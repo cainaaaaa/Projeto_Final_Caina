@@ -10,6 +10,9 @@ Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
 
 ## Diagrama de Casos de Uso
 
+<img src="imagens/cobra_caso_uso.png"
+     width="30%"
+     style="padding: 10px">
 Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
  
 ## Diagrama de Domínio do problema
