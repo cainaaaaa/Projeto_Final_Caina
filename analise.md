@@ -21,6 +21,7 @@ Apresentar o diagram de casos de uso, identificando as funcionalidades do sistem
 <img src="imagens/cobra_diagrama_dominio.png"
      width="50%"
      style="padding: 10px">
+
 Elaborar um diagrama conceitual do domínio do problema.
 
 
