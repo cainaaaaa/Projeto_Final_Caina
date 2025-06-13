@@ -40,39 +40,35 @@ O desafio e a complexidade do jogo aumentam à medida que a cobra cresce, pois o
      style="padding: 10px">
      
 
-Jogador: O usuário que interage com o jogo.
-
 ### Casos de Uso Principais:
 
+#### Ator
+Jogador: O usuário que interage com o jogo.
+
 #### Iniciar Jogo: O jogador inicia uma nova partida do jogo.
-* O jogador acessa o jogo.
-* O jogador seleciona a opção "Iniciar Jogo" (ou similar).
-* O sistema inicializa o tabuleiro, a cobra e a comida em posições iniciais.
+* O jogador acessa o jogo;
+* O jogador seleciona a opção "Iniciar Jogo";
+* O sistema inicializa o tabuleiro, a cobra e a comida em posições iniciais;
 * O jogo começa a rodar.
 
 #### Mover Cobra: O jogador controla a direção da cobra.
-* O jogo está em andamento.
-* O jogador pressiona uma tecla direcional (Cima, Baixo, Esquerda, Direita).
-* O sistema atualiza a direção da cobra.
-* A cobra se move na próxima atualização do jogo.
+* O jogo está em andamento;
+* O jogador pressiona uma tecla direcional (Cima, Baixo, Esquerda, Direita);
+* O sistema atualiza a direção da cobra;
+* A cobra se move na nova direção.
 
 #### Pausar Jogo: O jogador pode pausar a partida em andamento.
-* O jogo está em andamento.
-* O jogador pressiona a tecla "Pausa" (ex: Espaço).
-* O sistema pausa o jogo e exibe uma mensagem de "Jogo Pausado".
+* O jogo está em andamento;
+* O jogador pressiona a tecla "Pausa";
+* O sistema pausa o jogo e exibe uma mensagem de "Jogo Pausado";
 * Fluxo Alternativo: O jogo já está pausado, o jogador pressiona "Pausa" novamente e o jogo é retomado.
 
 #### Encerrar Jogo: O jogador finaliza a partida.
-* O jogo está em andamento ou pausado.
-* O jogador seleciona a opção "Sair" ou "Encerrar".
-* O sistema encerra o jogo.
-* Condição Especial: O jogo também é encerrado automaticamente quando a cobra colide com uma parede ou com o próprio corpo.
+* O jogo está em andamento ou pausado;
+* O jogador seleciona a opção "Encerrar";
+* O sistema encerra o jogo e exibe uma mensagem "Fim de Jogo" e mostra a pontuação final;
+* Fluxo Alternativo: O jogo também é encerrado automaticamente quando a cobra colide com uma parede ou com o próprio corpo.
 
-#### Reiniciar Jogo: O jogador inicia um novo jogo após o fim da partida atual.
-* O jogo termina (cobra colide).
-* O sistema exibe a pontuação final e uma opção para "Reiniciar".
-* O jogador seleciona "Reiniciar".
-* O sistema reinicia o jogo (como em "Iniciar Jogo").
 
  
 ## Diagrama de Domínio do problema
