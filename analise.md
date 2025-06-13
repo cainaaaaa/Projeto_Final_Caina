@@ -79,23 +79,22 @@ Jogador: O usuário que interage com o jogo.
 
 
 ### Entidades Principais:
+* Jogador: A pessoa que interage com o jogo;
+* Jogo: Representa a instância principal do jogo;
+* Tabuleiro: O ambiente onde o jogo acontece;
+* Cobra: A entidade controlada pelo jogador;
+* Alimento: O item que a cobra come para crescer;
+* Segmento de Cobra: Cada parte individual do corpo da cobra;
+* Posição: Represneta a posição da cobra (em movimento) e da comida (estatico).
 
-*Jogo: Representa a instância principal do jogo.
-Cobra: A entidade controlada pelo jogador.
-Segmento de Cobra: Cada parte individual do corpo da cobra.
-Alimento: O item que a cobra consome para crescer.
-Tabuleiro / Tela: O ambiente onde o jogo acontece.
-Jogador: A pessoa que interage com o jogo.
-Pontuação: O registro do desempenho do jogador.
-Relacionamentos e Associações:
-Um Jogo tem um Tabuleiro/Tela.
-Um Jogo contém uma Cobra.
-Um Jogo contém um Alimento.
-Um Jogo rastreia a Pontuação.
-Um Jogador participa de um Jogo.
-Uma Cobra é composta por múltiplos Segmentos de Cobra.
-Um Segmento de Cobra tem uma Posição (ou seja, coordenadas).
-Um Alimento tem uma Posição.
+### Relacionamentos e Associações:
+* Um Jogador participa de um Jogo;
+* Um Jogo contém um Tabuleiro;
+* Um Tabuleiro contém uma Cobra;
+* Um Tabuleiro contém um Alimento;
+* Uma Cobra é composta por múltiplos Segmentos de Cobra;
+* Uma Cobra tem uma Posição;
+* Um Alimento tem uma Posição.
 
 
 <div align="center">
