@@ -15,15 +15,23 @@ O desafio e a complexidade do jogo aumentam à medida que a cobra cresce, pois o
 
 ### Funcionalidades Essenciais:
 
-* Controle da Cobra: O jogador deve ser capaz de mudar a direção da cobra (cima, baixo, esquerda, direita) usando teclas de direção.
-* Movimentação Contínua: A cobra deve se mover de forma autônoma e contínua em sua direção atual.
-* Geração de Alimento: Um alimento deve aparecer aleatoriamente no tabuleiro, em uma posição que não esteja ocupada pelo corpo da cobra.
-* Detecção de Colisão: O jogo precisa identificar quando a cabeça da cobra colide com um alimento, com as paredes do jogo ou com o próprio corpo.
-* Aumento de Pontuação: A pontuação deve ser atualizada e exibida na tela a cada alimento consumido.
-* Crescimento da Cobra: O corpo da cobra deve aumentar em comprimento após comer um alimento.
-* Fim de Jogo: A partida deve encerrar quando uma colisão ocorrer, exibindo a pontuação final.
-* Pausar/Retomar Jogo: O jogador deve ter a opção de pausar e retomar a partida a qualquer momento.
-* Reiniciar Jogo: Após o fim de jogo, o jogador deve poder iniciar uma nova partida.
+* Controle da Cobra: O jogador deve ser capaz de mudar a direção da cobra (cima, baixo, esquerda, direita) usando as teclas de direção do teclado;
+* Movimentação Contínua: A cobra deve se mover de forma autônoma e contínua em sua direção atual;
+* Geração de Alimento: Um alimento deve aparecer aleatoriamente no tabuleiro, em uma posição que não esteja ocupada pelo corpo da cobra;
+* Detecção de Colisão: O jogo precisa identificar quando a cabeça da cobra colide com um alimento, com as paredes do jogo ou com o próprio corpo;
+* Aumento de Pontuação: A pontuação deve ser atualizada e exibida na tela a cada alimento consumido;
+* Crescimento da Cobra: O corpo da cobra deve aumentar em comprimento após comer um alimento;
+* Fim de Jogo: A partida deve encerrar quando uma colisão ocorrer, exibindo a pontuação final;
+* Pausar/Retomar Jogo: O jogador deve ter a opção de pausar e retomar a partida a qualquer momento;
+* Reiniciar Jogo: Após o fim de jogo, o jogador deve poder iniciar uma nova partida;
+* Interface Gráfica Intuitiva: O jogo deve ter uma interface clara e fácil de entender.
+
+### Requisitos Não Funcionais:
+
+* Sons: Efeitos sonoros para comer alimento e fim de jogo.
+* Múltiplos Níveis/Dificuldades: Ajuste da velocidade da cobra ou do tamanho do tabuleiro.
+* Placar de Recordes: Armazenamento das maiores pontuações.
+* Personalização: Opções para mudar as cores da cobra ou do tabuleiro.
   
 ## Diagrama de Casos de Uso
 
