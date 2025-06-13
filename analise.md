@@ -77,11 +77,10 @@ Jogador: O usuário que interage com o jogo.
      width="50%"
      style="padding: 10px">
 
-iagrama de Domínio do Jogo da Cobrinha
-Vamos identificar as entida cobrinha:
 
-Entidades Principais:
-Jogo: Representa a instância principal do jogo.
+### Entidades Principais:
+
+*Jogo: Representa a instância principal do jogo.
 Cobra: A entidade controlada pelo jogador.
 Segmento de Cobra: Cada parte individual do corpo da cobra.
 Alimento: O item que a cobra consome para crescer.
