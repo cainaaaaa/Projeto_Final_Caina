@@ -2,15 +2,15 @@
 
 ## Descrição Geral do domínio do problema
 
-O Jogo da Cobrinha é um jogo clássico, popularmente conhecido por sua simplicidade e jogabilidade viciante. O objetivo desse trabalho é desenvolver uma versão do classica jogo aplicando os conceitos básicos de Programação Orientada a Objetos ultilizando o Qt Crator como plataforma de desenvolvimento
+O Jogo da Cobrinha é um jogo clássico, popularmente conhecido por sua simplicidade e jogabilidade viciante. O objetivo desse trabalho é desenvolver uma versão do jogo aplicando os conceitos básicos de Programação Orientada a Objetos ultilizando o Qt Crator como plataforma de desenvolvimento.
 
 ### Apresentação do Jogo e Funcionalidades
-No Jogo da Cobrinha, o jogador controla uma cobra que se move continuamente por um tabuleiro quadriculado. O principal objetivo é guiar a cobra para coletar "alimentos" que aparecem aleatoriamente na tela.
 
-Ao comer um alimento, duas coisas acontecem:
+No Jogo da Cobrinha, o jogador controla uma cobra que se move continuamente por um tabuleiro. O principal objetivo é guiar a cobra para comer alimentos que aparecem aleatoriamente no tabuleiro. Ao comer um alimento, duas coisas acontecem:
 
-A cobra aumenta de tamanho, adicionando um novo segmento ao seu corpo.
-A pontuação do jogador é incrementada.
+* A cobra aumenta de tamanho, adicionando um novo segmento ao seu corpo.
+* A pontuação do jogador é incrementada.
+
 O desafio e a complexidade do jogo aumentam à medida que a cobra cresce, pois o espaço de manobra diminui. O jogo termina se a cobra colidir com as bordas do tabuleiro ou com seu próprio corpo.
 ## Diagrama de Casos de Uso
 
