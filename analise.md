@@ -77,7 +77,26 @@ Jogador: O usuário que interage com o jogo.
      width="50%"
      style="padding: 10px">
 
-Elaborar um diagrama conceitual do domínio do problema.
+iagrama de Domínio do Jogo da Cobrinha
+Vamos identificar as entida cobrinha:
+
+Entidades Principais:
+Jogo: Representa a instância principal do jogo.
+Cobra: A entidade controlada pelo jogador.
+Segmento de Cobra: Cada parte individual do corpo da cobra.
+Alimento: O item que a cobra consome para crescer.
+Tabuleiro / Tela: O ambiente onde o jogo acontece.
+Jogador: A pessoa que interage com o jogo.
+Pontuação: O registro do desempenho do jogador.
+Relacionamentos e Associações:
+Um Jogo tem um Tabuleiro/Tela.
+Um Jogo contém uma Cobra.
+Um Jogo contém um Alimento.
+Um Jogo rastreia a Pontuação.
+Um Jogador participa de um Jogo.
+Uma Cobra é composta por múltiplos Segmentos de Cobra.
+Um Segmento de Cobra tem uma Posição (ou seja, coordenadas).
+Um Alimento tem uma Posição.
 
 
 <div align="center">
