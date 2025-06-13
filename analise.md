@@ -35,7 +35,7 @@ O desafio e a complexidade do jogo aumentam à medida que a cobra cresce, pois o
   
 ## Diagrama de Casos de Uso
 
-<img src="imagens/cobra_caso_uso4.png"
+<img src="imagens/cobra_caso_uso.png"
      width="50%"
      style="padding: 10px">
      
