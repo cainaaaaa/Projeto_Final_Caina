@@ -4,8 +4,8 @@
 Para cada classe temos um aquivo .h (header/cabeçalho) e um .cpp (source/fonte), além de arquivos para a interface gráfica e o ponto de entrada do programa.
 
 ## 1. Arquivos de Cabeçalho (.h)
-    • Contem as declarações (o que a classe é, quais atributos ela tem, quais métodos ela oferece) mas não as implementações (como os métodos fazem o que fazem).
-    • Conteúdo:
+    * Contem as declarações (o que a classe é, quais atributos ela tem, quais métodos ela oferece) mas não as implementações (como os métodos fazem o que fazem).
+    * Conteúdo:
         ◦ Includes: Outros arquivos de cabeçalho necessários para que as declarações desta classe funcionem (ex: Cobra.h precisa incluir SegmentoCobra.h).
         ◦ Declaração da classe:  nome da classe, membros (public, private, protected) e a declaração de atributos e métodos.
         ◦ Enums ou structs: Definições de tipos personalizados que são usados por várias partes do código.
