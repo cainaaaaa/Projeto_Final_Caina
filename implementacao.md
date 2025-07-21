@@ -1,8 +1,6 @@
 # Implementação
 
 
-# Explicação dos Arquivos e Suas Partes
-
 Para cada classe temos um aquivo .h (header/cabeçalho) e um .cpp (source/fonte), além de arquivos para a interface gráfica e o ponto de entrada do programa.
 
 ## 1. Arquivos de Cabeçalho (.h)
