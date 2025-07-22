@@ -1,5 +1,10 @@
 # Projeto orientado a objeto
 
+<img src="imagens/cobra_caso_uso.png"
+     width="50%"
+     style="padding: 10px">
+
+
 # Explicação dos arquivos do Projeto da Cobrinha
 
     • posicao.h:  Declara Posição como um typedef de QPoint.
