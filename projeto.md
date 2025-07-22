@@ -1,7 +1,7 @@
 # Projeto orientado a objeto
 
 <img src="imagens/cobrinhaclasse.png"
-     width="50%"
+     width="70%"
      style="padding: 10px">
 
 
