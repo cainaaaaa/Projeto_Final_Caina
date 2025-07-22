@@ -8,7 +8,7 @@
      style="padding: 10px">
 
 
-# Explicação dos arquivos do Projeto da Cobrinha
+# Explicação dos arquivos do Jogo da Cobrinha
 
     • posicao.h:  Declara Posição como um typedef de QPoint.
     
