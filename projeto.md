@@ -1,6 +1,6 @@
 # Projeto orientado a objeto
 
-<img src="imagens/cobrinha_classe.png"
+<img src="imagens/cobrinhaclasse.png"
      width="50%"
      style="padding: 10px">
 
