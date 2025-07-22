@@ -1,11 +1,11 @@
 # Teste
 
 Os testes feitos foram ao longo do desenvolvimento do projeto, testando cada classe e suas conexões com as demais. 
-Também foi feito um teste final após a logica do jogo esar validada.
+Também foi feito um teste final após a logica do jogo estar validada.
 
 ## Teste do inicio do Jogo
 <img src="imagens/jogoRodando.png"
-     width="50%"
+     width="70%"
      style="padding: 10px">
 
 Ao iniciar dentro do QT Creator a janela do jogo abre. Para iniciar o jogo basta clicar no botão "iniciar Jogo".
@@ -19,7 +19,7 @@ Com o jogo rodando a cada 50 pontos o tempo aumenta a velocidade com que a cobra
 ## Teste de colisão 
 
 <img src="imagens/fimdejogo.png"
-     width="50%"
+     width="70%"
      style="padding: 10px">
 
 Com o jogo rodando verificamos a logica de colisão com a parede e com o corpo em ambos caso ocorra o jogo termina. 
