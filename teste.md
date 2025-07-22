@@ -15,7 +15,7 @@ Com o jogo rodando a cada 50 pontos o tempo aumenta a velocidade com que a cobra
 
 ## Teste de colisão 
 
-com 
+Com o jogo rodando verificamos a logica de colisão com a parede e com o corpo em ambos caso ocorra o jogo termina. 
 
 <div align="center">
 
